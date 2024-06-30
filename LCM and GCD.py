@@ -1,7 +1,7 @@
 import sys
 
-sys.stdout = open('C:/Users/DEBASHISH THAKUR/Documents/CP/CP1/output.txt', 'w')
-sys.stdin = open('C:/Users/DEBASHISH THAKUR/Documents/CP/CP1/input.txt', 'r')
+sys.stdout = open('C:/Users/ADITI DAS/Documents/CP/CP1/output.txt', 'w')
+sys.stdin = open('C:/Users/ADITI DAS/Documents/CP/CP1/input.txt', 'r')
 
 #your code goes here
 #lcm
